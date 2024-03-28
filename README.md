@@ -1,2 +1,2 @@
-# verbose-carnival
+# vscode-dev
 아패
